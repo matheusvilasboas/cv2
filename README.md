@@ -1,1 +1,1 @@
-<a href="https://github.com/matheusvilasboas/cv2.git">Bem vindo ao meu currículo!</a>
+<a href="https://matheusvilasboas.github.io/cv2/">Bem vindo ao meu currículo!</a>
